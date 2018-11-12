@@ -6,7 +6,7 @@ android {
         you4k {
             keyAlias 'you4k'
             keyPassword '555555'
-            storeFile file('f:/you4k/keystore/you4k.jks')
+            storeFile file('/Users/masterung/MyWorkSpace/ConsultProject/laotv/keystore/you4k.jks')
             storePassword '555555'
         }
     }

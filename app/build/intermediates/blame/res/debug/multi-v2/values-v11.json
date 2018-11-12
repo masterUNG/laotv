@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\yut\\laotv\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "/Users/masterung/MyWorkSpace/ConsultProject/laotv/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "F:\\yut\\laotv\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "/Users/masterung/MyWorkSpace/ConsultProject/laotv/app/src/main/res/values-v11/styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
